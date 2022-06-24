@@ -1,6 +1,6 @@
 # ToDo App em Ionic.
 
-Aplicativo de Tarefas simples, desenvolvido com Ionic 5.
+Aplicativo de Tarefas simples, desenvolvido com Ionic 6.
 
 ![Screen-3](https://user-images.githubusercontent.com/86168060/174847797-140ecdca-0200-498c-bc70-1191dfe6ed0f.png)
 ![Screen-4](https://user-images.githubusercontent.com/86168060/174847799-448b1733-0633-410b-8840-330b6c64b505.png)
